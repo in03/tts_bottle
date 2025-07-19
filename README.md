@@ -2,6 +2,8 @@
 
 A bolt-on AI-powered hydration assistant that reminds you to drink with witty spoken remarks - GlaDOS in water bottle form!
 
+[#ForTheLoveOfCode](https://github.blog/open-source/for-the-love-of-code-2025/)
+
 ## 🎯 Vision
 
 ### The Problem
