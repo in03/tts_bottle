@@ -18,6 +18,14 @@ Transform an existing nice bottle (Yeti Rambler) into a smart companion:
 - **Neoprene sleeve** - protects from scratches, hides electronics
 - **AI personality** - witty, helpful, but not overly "assistant-like"
 
+**Some ChatGPT mock-ups** 🎨
+<img width="1024" height="1536" alt="bottle_mockup_01" src="https://github.com/user-attachments/assets/58b8148c-1329-4ee8-9f75-38bc4de5a0c1" />
+
+<img width="1024" height="1024" alt="bottle_mockup_03" src="https://github.com/user-attachments/assets/c3455c6a-6202-4fd0-8248-ae87f3156a3b" />
+
+
+<img width="1024" height="1536" alt="bottle_mockup_02" src="https://github.com/user-attachments/assets/057c1cdf-5805-430c-a528-7e8a33d49861" />
+
 ### Core Philosophy
 - **Have fun** - This should be enjoyable to use
 - **Make me drink more water** - Primary utility function
