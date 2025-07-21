@@ -7,16 +7,16 @@ A bolt-on AI-powered hydration assistant that reminds you to drink with witty sp
 ## 🎯 Vision
 
 ### The Problem
-- Cheap water bottles taste weird
-- Good bottles get lost or scratched
-- Simply forgetting to drink water
+- I'm fussy and don't like the taste of cheap plastic or aluminium water bottles. 
+- I'm really good at losing or damaging my water bottles. 
+- I'm reaaaally bad at drinking enough water.
 
 ### The Solution
-Transform an existing nice bottle (Yeti Rambler) into a smart companion:
-- **BLE tracking** - never lose your bottle again
-- **Water level monitoring** - never forget to drink
-- **Neoprene sleeve** - protects from scratches, hides electronics
-- **AI personality** - witty, helpful, but not overly "assistant-like"
+Augment a decent bottle (Yeti Rambler) with a smart sleeve:
+- **BLE tracking** - Prevent losing the bottle. 
+- **Water level monitoring** - Avoid dehydration. 
+- **Neoprene sleeve** - Protect bottle from scratches and drops, and hold electronic components in place. 
+- **Conversational AI and TTS** - For an engaging human-like touch.
 
 **Some ChatGPT mock-ups** 🎨
 <img width="1024" height="1536" alt="bottle_mockup_01" src="https://github.com/user-attachments/assets/58b8148c-1329-4ee8-9f75-38bc4de5a0c1" />
